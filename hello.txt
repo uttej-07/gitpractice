@@ -2,5 +2,8 @@ hello world
 my name is uttej cheedalla
 This is my 4th month internship
 
+<<<<<<< HEAD
 I don't know what to do this month.
 YoYo.
+=======
+>>>>>>> 13f1ff362f6bdffc365aeeb7c1f7e78486482501
